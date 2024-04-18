@@ -1,1 +1,1 @@
-Ejemplo parfa aprender Bem
+Ejemplo para aprender BEM
